@@ -20,4 +20,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
 ### Clic para ver el resultado final
-👉 [www.rick-n-morty-ByDimeBruce]([https://cli.vuejs.org/config/](https://rick-n-morty-vue.netlify.app/)).
+👉 [Rick N' Morty By dimebruce](https://rick-n-morty-vue.netlify.app/).
